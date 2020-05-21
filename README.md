@@ -4,7 +4,7 @@ Define la función `nested_list_to_dict` que recibe una lista nesteada como argu
 
 Es importante desarrollar tu código usando `unittest` para verificar que tu programa se comporta y produce el resultado deseado.
 
-Restricción: Para este ejercicio usa list comprehensions, siguiendo las buenas prácticas al estilo pythonista.
+Restricción: Para este ejercicio usa `list comprehensions`, siguiendo las buenas prácticas al estilo pythonista.
 
 
 ```python
